@@ -1,0 +1,132 @@
+.body{
+
+}
+.main {
+  position: relative;
+  width: 1600px;
+}
+.header {
+  width: 40%;
+  display: block;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 25px;
+}
+.content {
+  width: 50%;
+}
+.button {
+  position: absolute;
+  width: 3%;
+  top: 480px;
+}
+.ukr {
+  position: absolute;
+  width: 0.5%;
+  top: 335px;
+  padding-left: 35px;
+}
+.popup_button_1 {
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 50px;
+  top: 401px;
+  left: 80px;
+}
+.popup_img_1 {
+  position: absolute;
+  display: none;
+  width: 403px;
+  top: 390px;
+  left: 66px;
+}
+.popup_btn_2 {
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 50px;
+  top: 478px;
+  left: 80px;
+}
+.popup_img_2 {
+  position: absolute;
+  width: 403px;
+  top: 470px;
+  left: 65px;
+  display: none;
+}
+.popup_btn_3 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 557px;
+  left: 80px;
+  display: block;
+}
+.popup_img_3 {
+  position: absolute;
+  width: 403px;
+  top: 550px;
+  left: 65px;
+  display: none;
+}
+.popup_btn_4 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 480px;
+  left: 683px;
+  display: block;
+}
+.popup_img_4 {
+  position: absolute;
+  width: 403px;
+  top: 468px;
+  left: 350px;
+  display: none;
+}
+.info_btn {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 520px;
+  left: 806px;
+  display: block;
+}
+.text_info{
+    position: absolute;
+    width: 444px;
+    left: 295px;
+    top: 465px;
+    display: none;
+    z-index: 2;
+}
+.txt_info{
+    position: absolute;
+    width: 540px;
+    left: 270px;
+    top: 440px;
+    display: none;
+    z-index: 2;
+}
+
+.info_bcgr {
+  position: absolute;
+  top: 0;
+  width: 54%;
+  left: 0;
+  display: none;
+  z-index: 1;
+}
+.background{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 54%;
+}
+.buttons_overlay{
+  top: 22px;
+  left: 0px;
+  position: absolute;
+}
